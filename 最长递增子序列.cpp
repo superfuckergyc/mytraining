@@ -31,4 +31,5 @@ int main(){
 	int res=lengthOfLIS(t);
 	cout<<res<<endl;
 	return 0;
+
 }
